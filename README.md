@@ -1,9 +1,9 @@
-# Mayank Khanna Developer Portfolio ⚡️
+# Mario Hall Developer Portfolio ⚡️
 
 ![Website Pic](./src/assets/images/site-pic.png)
 
 ## Table of Contents
-- [Mayank Khanna Developer Portfolio ⚡️](#mayank-khanna-developer-portfolio-️)
+- [Mario Hall Developer Portfolio ⚡️](#mario-hall-developer-portfolio-️)
   - [Table of Contents](#table-of-contents)
   - [Portfolio Sections](#portfolio-sections)
   - [Getting Started](#getting-started)
@@ -32,7 +32,7 @@
 ✔️ Twitter Timeline\
 ✔️ Github Profile
 
-To view a live example, **[click here](https://mayank-khanna.netlify.app)**.
+To view a live example, **[click here](https://mario-hall.netlify.app)**.
 
 
 ## Getting Started
@@ -60,7 +60,7 @@ From your command line, clone and run developerFolio:
 
 ```bash
 # Clone this repository
-git clone https://github.com/khanna98/dev-portfolio
+git clone https://github.com/mario-hall/dev-portfolio
 
 # Go into the repository
 cd dev-portfolio
@@ -138,7 +138,7 @@ This section guides you to deploy your portfolio on Github pages.
 
 You could also host directly with Netlify by linking your own repository.
 
-[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/khanna98/dev-portfolio)
+[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mario-hall/dev-portfolio)
 
 For more information, read [hosting on Netlify](https://create-react-app.dev/docs/deployment/#netlify).
 

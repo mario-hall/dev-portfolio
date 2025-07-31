@@ -9,8 +9,8 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Mayank Khanna",
-  title: "Hi all, I'm Mayank",
+  username: "Mario Hall",
+  title: "Hi all, I'm Mario",
   subTitle:
     "A passionate software developer, problem solver, and technology enthusiast who loves learning new things. A quick learner with zeal and motivation to succeed, I have experience working as a Full Stack Developer, Voice App Developer, and DevOps Engineer (SRE). I look forward to opportunities that will help me grow and where I can contribute to the growth of the organization with my technical and management skills.",
   resumeLink:
@@ -21,14 +21,14 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/khanna98",
-  linkedin: "https://www.linkedin.com/in/khanna98/",
-  gmail: "mkhanna98.dev@gmail.com",
-  gitlab: "https://gitlab.com/mayank.khanna.98",
+  github: "https://github.com/mario-hall",
+  linkedin: "https://www.linkedin.com/in/mario-hall-dev/",
+  gmail: "mariohall0530@gmail.com",
+  // gitlab: "https://gitlab.com/mario.hall.98",
   // facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@iammayank",
-  instagram: "https://instagram.com/_mayankkhanna",
-  stackoverflow: "https://stackoverflow.com/users/10852834/mayank-khanna",
+  // medium: "https://medium.com/@iammario",
+  // instagram: "https://instagram.com/_mariohall",
+  // stackoverflow: "https://stackoverflow.com/users/10852834/mario-hall",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -405,7 +405,7 @@ const blogSection = {
 
   blogs: [
     {
-      url: "https://iammayank.medium.com/find-unique-characters-in-a-string-cc322a1f7ed8",
+      url: "https://iammario.medium.com/find-unique-characters-in-a-string-cc322a1f7ed8",
       title: "Find unique characters in a given string",
       description:
         "A very common interview question that is a must for each and everyone preparing for interviews. This shows..."
@@ -459,7 +459,7 @@ const contactInfo = {
 // Twitter Section
 
 const twitterDetails = {
-  userName: "khannamayank98", //Replace "twitter" with your twitter username without @
+  userName: "hallmario98", //Replace "twitter" with your twitter username without @
   display: false // Set true to display this section, defaults to false
 };
 
