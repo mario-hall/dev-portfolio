@@ -50,7 +50,7 @@ export default function GithubProfileCard({prof}) {
           </div>
           <div className="image-content-profile">
             <img
-              src={prof.avatarUrl}
+              src={"https://i.ibb.co/PvVPqnNw/mario-hall-1.png"}
               alt={prof.name}
               className="profile-image"
             />
